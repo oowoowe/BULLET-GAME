@@ -1,2 +1,0 @@
-# BULLET-GAME
-JAVA homework
